@@ -5,7 +5,7 @@
 </div>
 
 # About Me
-I’m Ky. For some time I’ve been exploring the Rust programming language, the wide range of linux based operating systems. I love learning how things work under the hood! I also enjoy developing for Mac and iOS. I often find myself caught up in yet another project that initiated through curiosity.
+I’m Ky. For some time I’ve been exploring the Rust programming language, and the wide range of linux based operating systems. I love learning how things work under the hood! I also enjoy developing for Mac and iOS. I often find myself caught up in yet another project that initiated through curiosity.
 
 
 # Contact & Links
