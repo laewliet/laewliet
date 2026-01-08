@@ -11,12 +11,6 @@
 
 </div>
 
-  <p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=laewliet&theme=dark&bg_color=151b23&border_color=3d444d&layout=compact"/>
-  </a>
-  </p>
-
 <div align="center" width="150px">
   
 # Hi, I'm Kylo!
